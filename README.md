@@ -1,0 +1,2 @@
+# TheSpeechRecognitionSystemDemo
+用系统方法实现文字朗读,语音识别
